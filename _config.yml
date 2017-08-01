@@ -1,0 +1,21 @@
+# Site settings
+title: Road of Reveries 
+header-img: img/home-bg.png
+email: haroon1azhar@gmail.com
+copyright_name: HaroonAzhar
+description: > # this means to ignore newlines until "baseurl:"
+  My noggin office
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: _Haroon_A
+github_username:  HaroonAzhar
+learn_profile: HaroonAzhar
+email_username: haroon1azhar@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
