@@ -9,7 +9,7 @@ Hey-yo, Hope you're having a great day. I recently finished my OO ruby porfolio 
 
 There aren't many libraries for getting quotes, so I thought I'd make one as my portfolio project (*--*).
 
-The gem isn't just a library but it's comes with a fandy(fancy and handy) feature: a cli interface.Just head over to [my demo of the Quote Box gem](https://www.youtube.com/watch?v=2zV0mEUE8DY&t=7s) to learn how to use them.
+The gem isn't just a library but it's comes with a fandy(fancy and handy) feature: a cli interface.Just head over to [my demo of the Quote Box gem](https://www.youtube.com/watch?v=2zV0mEUE8DY&t=7s),to learn how to use the gem.
 
 You can also get the soure code from the my github project [repo](https://github.com/HaroonAzhar/quote-box-cli-app)
 
